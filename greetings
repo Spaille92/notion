@@ -1,4 +1,0 @@
-<a class="weatherwidget-io" href="https://forecast7.com/en/45d50n73d57/montreal/" data-label_1="MONTREAL" data-label_2="température" data-font="Courier New" data-theme="hexellence" data-textcolor="#000000" data-highcolor="#ffa93e" data-lowcolor="#9fbac0" data-mooncolor="#ceaaaa" data-cloudcolor="#000000" data-cloudfill="#d47272" data-raincolor="rgba(44, 112, 126, 0.98)" data-snowcolor="#396974" >MONTREAL température</a>
-<script>
-!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
-</script>
